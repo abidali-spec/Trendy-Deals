@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Remover",
+  "description": "An application that uses AI to remove the background from an uploaded image, providing a clean result with a transparent background.",
+  "requestFramePermissions": []
+}
